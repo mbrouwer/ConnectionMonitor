@@ -1,0 +1,6 @@
+{
+    "destination": "192.168.0.1",
+    "protocol": "tcp",
+    "port": 80,	
+    "interval": 2000
+}

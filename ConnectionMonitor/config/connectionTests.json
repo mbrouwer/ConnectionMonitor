@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Computer": "8.8.8.8",
+    "Port": "",
+    "Protocol": "ICMP",
+    "Interval": 60
+  },
+  {
+    "Computer": "8.8.8.8",
+    "Port": "443",
+    "Protocol": "TCP",
+    "Interval": 60
+  }
+]
